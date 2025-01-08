@@ -1,9 +1,13 @@
 body {
     background-color: blanchedalmond;
     margin: 20px;
-    text-align: center;
+    text-align: left;
   }
   h1 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  h2 {
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
