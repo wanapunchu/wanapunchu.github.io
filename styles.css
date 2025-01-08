@@ -8,7 +8,7 @@ body {
   p {
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-wrap: pretty;
+    text-align: justify;
   }
 
   a {
