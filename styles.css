@@ -5,20 +5,19 @@ body {
   }
   h1 {
     color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
   }
   h2 {
     color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
   }
   h3 {
     color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
   }
   p {
     color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
   }
 
