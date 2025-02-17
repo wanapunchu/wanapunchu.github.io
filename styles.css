@@ -8,8 +8,10 @@ body {
 
   a {
     color: darkblue;
+    text-decoration: none;
   }
 
   a:hover {
     color: purple;
+    font-weight: bold;
   }
