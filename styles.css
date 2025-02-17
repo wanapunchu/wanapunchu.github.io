@@ -8,5 +8,8 @@ body {
 
   a {
     color: darkblue;
-    transition: purple;
+  }
+
+  a:hover {
+    color: purple;
   }
