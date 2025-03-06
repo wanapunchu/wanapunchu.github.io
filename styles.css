@@ -13,7 +13,6 @@ body {
 
   a:hover {
     color: purple;
-    font-weight: bold;
   }
 
   nav {
@@ -24,4 +23,15 @@ body {
     border-bottom-width: 1px;
     border-bottom-style: solid;
     border-bottom-color: black;
+  }
+
+  nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+  }
+
+  .current {
+    font-weight: bold;
   }
