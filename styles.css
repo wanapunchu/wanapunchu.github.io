@@ -18,15 +18,9 @@ body {
   nav {
     display: flex;
     text-align: center;
-    padding: 0.2em;
-    margin-bottom: 5%;
-    border-bottom-width: 1px;
-    border-bottom-style: solid;
-    border-bottom-color: black;
   }
 
   nav ul {
-    padding: 0;
     display: flex;
     justify-content: space-between;
     list-style-type: none;
