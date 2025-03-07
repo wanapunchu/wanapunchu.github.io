@@ -28,7 +28,10 @@ body {
     }
     li {
       float: inherit;
-      padding: 14px 16px;
+      padding-top: 14px;
+      padding-right: 32px;
+      padding-bottom: 14px;
+      padding-left: 0px;
     }
   }
 
