@@ -46,7 +46,8 @@ body {
   }
 
   img {
-    height: 25%;
+    width: 20%;
+    height: 20%;
     padding-top: 12px;
     padding-right: 6px;
     padding-bottom: 6px;
