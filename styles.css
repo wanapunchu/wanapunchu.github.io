@@ -27,7 +27,7 @@ body {
       list-style-type: none;
     }
     li {
-      float: left;
+      float: inherit;
       padding: 14px 16px;
     }
   }
