@@ -2,8 +2,8 @@ body {
     background-color: black;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
     text-align: left;
     color: whitesmoke;
     font-family: 'Courier New', Courier, monospace;
@@ -59,5 +59,4 @@ body {
 
   img {
     width: 400px;
-    height: 400px;
   }
