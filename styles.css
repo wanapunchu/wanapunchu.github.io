@@ -58,5 +58,6 @@ body {
   }
 
   img {
-    width: 400px;
+    width: 200px;
+    padding: 20px;
   }
