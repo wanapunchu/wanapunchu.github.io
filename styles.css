@@ -10,11 +10,11 @@ body {
   }
 
   p {
-    font-size: 16px;
+    font-size: 24px;
   }
 
   ul {
-    font-size: 16px;
+    font-size: 24px;
   }
 
   a {
@@ -43,7 +43,7 @@ body {
       padding-right: 32px;
       padding-bottom: 12px;
       padding-left: 0px;
-      font-size: 24px;
+      font-size: 36px;
     }
     a {
       color: lightgreen;
