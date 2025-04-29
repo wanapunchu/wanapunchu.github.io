@@ -18,22 +18,22 @@ body {
   }
 
   a {
-    color: lightblue;
+    color: mediumaquamarine;
     text-decoration: none;
   }
 
   a:hover {
-    color: cornflowerblue;
+    color: aquamarine;
   }
 
   h1 {
     font-size: 30px;
     text-transform: uppercase;
     a {
-      color: mediumpurple;
+      color: seagreen;
     }
     a:hover {
-      color: purple;
+      color: mediumseagreen;
     }
   }
 
@@ -57,10 +57,10 @@ body {
       font-size: 24px;
     }
     a {
-      color: lightgreen;
+      color: darkgreen;
     }
     a:hover {
-      color: darkgreen;
+      color: lightgreen;
     }
   }
 
