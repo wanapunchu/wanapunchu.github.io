@@ -26,6 +26,11 @@ body {
     color: cornflowerblue;
   }
 
+  h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+  }
+
   nav {
     display: flex;
     text-align: center;
