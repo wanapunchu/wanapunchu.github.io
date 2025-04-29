@@ -57,10 +57,10 @@ body {
       font-size: 24px;
     }
     a {
-      color: darkgreen;
+      color: seagreen;
     }
     a:hover {
-      color: lightgreen;
+      color: mediumseagreen;
     }
   }
 
