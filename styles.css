@@ -1,11 +1,11 @@
 body {
-    background-color: black;
+    background-color: whitesmoke;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 10%;
     margin-right: 10%;
     text-align: left;
-    color: whitesmoke;
+    color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
@@ -35,7 +35,6 @@ body {
     a:hover {
       color: purple;
     }
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
 
   nav {
