@@ -10,11 +10,11 @@ body {
   }
 
   p {
-    font-size: 16px;
+    font-size: 20px;
   }
 
   ul {
-    font-size: 16px;
+    font-size: 20px;
   }
 
   a {
@@ -27,7 +27,7 @@ body {
   }
 
   h1 {
-    font-size: 30px;
+    font-size: 36px;
     text-transform: uppercase;
     a {
       color: seagreen;
@@ -54,7 +54,7 @@ body {
       padding-right: 32px;
       padding-bottom: 12px;
       padding-left: 0px;
-      font-size: 24px;
+      font-size: 30px;
     }
     a {
       color: seagreen;
