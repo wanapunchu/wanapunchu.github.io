@@ -73,6 +73,7 @@ body {
   left: 10%;
   bottom: 0;
   width: 80%;
+  background-color: white;
   text-align: left;
   p {
     font-style: italic;
