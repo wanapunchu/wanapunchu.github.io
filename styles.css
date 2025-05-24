@@ -72,8 +72,10 @@ body {
   position: fixed;
   left: 10%;
   bottom: 0;
-  width: 90%;
+  width: 80%;
   text-align: left;
-  font-size: 12px;
-  font-style: italic;
+  p {
+    font-style: italic;
+    font-size: 12px;
+  }
 }
