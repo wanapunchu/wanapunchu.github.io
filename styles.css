@@ -1,7 +1,5 @@
 body {
     background-color: white;
-    left: 10%;
-    width: 80%;
     text-align: left;
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -68,14 +66,18 @@ body {
 
   .notfooter {
     position: fixed;
+    left: 10%;
+    width: 80%;
     top: 30px;
-    height: 95%;
-    overflow-y: scroll;
+    height: 90%;
+    overflow-y: auto;
   }
 
 
 .footer {
   position: fixed;
+  left: 10%;
+  width: 80%;
   bottom: 0;
   height: 5%;
   text-align: left;
