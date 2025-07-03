@@ -6,11 +6,11 @@ body {
   }
 
   p {
-    font-size: 10%;
+    font-size: 20%;
   }
 
   ul {
-    font-size: 10%;
+    font-size: 20%;
   }
 
   a {
@@ -23,7 +23,7 @@ body {
   }
 
   h1 {
-    font-size: 20%;
+    font-size: 60%;
     text-transform: uppercase;
     a {
       color: seagreen;
@@ -50,7 +50,7 @@ body {
       padding-right: 10%;
       padding-bottom: 2%;
       padding-left: 0%;
-      font-size: 15%;
+      font-size: 25%;
     }
     a {
       color: seagreen;
@@ -69,15 +69,15 @@ body {
     left: 10%;
     width: 80%;
     top: 2%;
-    height: 14%;
+    height: 20%;
   }
 
 .middle {
     position: fixed;
     left: 10%;
     width: 80%;
-    top: 41%;
-    height: 54%;
+    top: 22%;
+    height: 73%;
     overflow-y: auto;
   }
 
