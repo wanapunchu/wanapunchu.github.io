@@ -71,10 +71,9 @@ body {
   .notfooter {
     position: fixed;
     left: 0;
-    top: 100%;
+    top: 0;
     height: 95%;
     width: 100%;
-    background-color: white;
   }
 
 
@@ -84,7 +83,6 @@ body {
   height: 5%;
   bottom: 0;
   width: 80%;
-  background-color: white;
   text-align: left;
   p {
     font-style: italic;
