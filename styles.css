@@ -6,11 +6,11 @@ body {
   }
 
   p {
-    font-size: 5%;
+    font-size: 10%;
   }
 
   ul {
-    font-size: 5%;
+    font-size: 10%;
   }
 
   a {
@@ -23,7 +23,7 @@ body {
   }
 
   h1 {
-    font-size: 10%;
+    font-size: 20%;
     text-transform: uppercase;
     a {
       color: seagreen;
@@ -47,10 +47,10 @@ body {
     li {
       float: inherit;
       padding-top: 2%;
-      padding-right: 5%;
+      padding-right: 10%;
       padding-bottom: 2%;
-      padding-left: 0px;
-      font-size: 8%;
+      padding-left: 0%;
+      font-size: 15%;
     }
     a {
       color: seagreen;
@@ -68,7 +68,7 @@ body {
     position: fixed;
     left: 10%;
     width: 80%;
-    top: 3%;
+    top: 2%;
     height: 14%;
   }
 
@@ -76,8 +76,8 @@ body {
     position: fixed;
     left: 10%;
     width: 80%;
-    top: 17%;
-    height: 78%;
+    top: 41%;
+    height: 54%;
     overflow-y: auto;
   }
 
