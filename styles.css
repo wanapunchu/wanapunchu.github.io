@@ -1,9 +1,7 @@
 body {
     background-color: white;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 10%;
-    margin-right: 10%;
+    left: 10%;
+    width: 80%;
     text-align: left;
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -70,7 +68,6 @@ body {
 
   .notfooter {
     position: fixed;
-    left: 10%;
     top: 30px;
     height: 95%;
     overflow-y: scroll;
@@ -79,10 +76,8 @@ body {
 
 .footer {
   position: fixed;
-  left: 10%;
-  height: 5%;
   bottom: 0;
-  width: 80%;
+  height: 5%;
   text-align: left;
   p {
     font-style: italic;
