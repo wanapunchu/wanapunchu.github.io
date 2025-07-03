@@ -70,9 +70,10 @@ body {
 
   .notfooter {
     position: fixed;
-    left: 0;
-    top: 0;
+    left: 10%;
+    top: 30px;
     height: 95%;
+    overflow-y: scroll;
   }
 
 
