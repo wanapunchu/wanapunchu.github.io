@@ -3,6 +3,8 @@ body {
     text-align: left;
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
   }
 
   a {
@@ -22,6 +24,7 @@ body {
     a:hover {
       color: mediumseagreen;
     }
+    font-size: 32px;
   }
 
   nav {
@@ -34,6 +37,7 @@ body {
       display: flex;
       justify-content: space-between;
       list-style-type: none;
+      font-size: 24px;
     }
     li {
       float: inherit;
@@ -52,6 +56,16 @@ body {
     font-weight: bold;
   }
 
+  p {
+    font-size: 16px;
+  }
+
+  .footer {
+    p {
+      font-style: italic;
+      font-size: 12px;
+    }
+  }
 /*
 .top {
     position: fixed;
