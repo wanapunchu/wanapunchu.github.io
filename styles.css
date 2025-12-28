@@ -41,6 +41,7 @@ body {
     }
     li {
       float: inherit;
+      font-size: 24px;
       padding-right: 10%;
       padding-left: 0%;
     }
